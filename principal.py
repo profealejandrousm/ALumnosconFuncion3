@@ -93,6 +93,7 @@ while True:
             
         case "5":
             print("Opción 5")
+            #Falta implementar la opción 5
             
         case "6":
             print("Fin del programa")
